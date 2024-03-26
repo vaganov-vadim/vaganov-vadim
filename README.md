@@ -1,7 +1,4 @@
-Hi, I’m Vadim Vaganov from Moscow, Russia.
-I’m interested in Java and Kotlin development at the moment but often play with new languages and technologies, previously worked with C#.
-I’m currently trying to deepen my knowledge in JVM, functional programming, software design, and testing.
-You can reach me by email at vrvaganov@gmail.com or by Twitter at @vrvaganov.
+Всем привет, меня зовут Вадим Ваганов, я разработчик из Москвы. Я люблю работать в команде и создавать продукты, а также создавать контент и рассказывать о своём опыте. Веду канал в [telegram](https://t.me/vaganov_vadim).
 
 <!---
 vrvaganov/vrvaganov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
