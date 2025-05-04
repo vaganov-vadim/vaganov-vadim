@@ -22,4 +22,4 @@
 
 ## Подкасты
 
-- "Техно.Логично", выпуск "Личный бренд в ИТ" - [Аудио](https://technologichno.mave.digital/ep-14) / [Видео](https://vkvideo.ru/video-145457488_456239833))
+- "Техно.Логично", выпуск "Личный бренд в ИТ" - [Аудио](https://technologichno.mave.digital/ep-14) / [Видео](https://vkvideo.ru/video-145457488_456239833)
