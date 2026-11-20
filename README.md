@@ -1,25 +1,9 @@
-# Ваганов Вадим
+# Вадим Ваганов
 
-Всем привет, меня зовут Вадим Ваганов, я инженер, техническмий менеджер и контент-мейкер.
+CTO в финтехе. Ментор для инженеров и тимлидов. Помогаю расти без выгорания.
 
-Работаю в крупной компании и рассказываю, как расти в IT без фанатизма:
-- Прагматичные решения — технологии, менеджмент, карьера;
-- Баланс между работой и жизнью;
-- Софт-скиллы, которые реально работают.
+10 лет в IT. От backend-разработчика до CTO: направление с 40+ инженерами и 7 критическими системами. Turnaround, AI в SDLC, Platform Engineering, развитие людей.
 
-Для тех, кто хочет от IT большего — но не ценой себя.
-
-Автор канала ["Инженерный апгрейд"](https://t.me/vaganov_vadim).
-
-## Полезные ссылки
-
-[Мой контент](content.md)
-
-## Контакты
-
-[Связаться со мной](https://t.me/vrvaganov)
-
-<!---
-vrvaganov/vrvaganov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Менторство: https://getmentor.dev/mentor/vadim-vaganov-7481
+- Telegram: https://t.me/vaganov_vadim
+- Сайт: https://vaganov-vadim.ru
