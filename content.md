@@ -8,11 +8,11 @@
 - [Прагматичный взгляд на разработку. Почему кодинг - не главное](https://youtu.be/bAQ923Iv7gg?si=PlVJF9NLx8hT5Qh2)
 - [Кто такой инженер-разработчик](https://www.youtube.com/watch?v=_EU_LF1LGyg)
 - [Backend - это тоже красиво](https://disk.yandex.ru/i/MRHcxhYoGAzjzA)
-- [Trunk Based Development: коммитим в main несколько раз в день](https://events.online.gpb.ru/site/a55ad170-2cc2-4d1d-8947-b9f946925f86) - внизу страницы, Зал Hard skill, тайминг 2:17:47
+- [Trunk Based Development: коммитим в main несколько раз в день](https://rutube.ru/video/4aca36841c28f8777d8a6dd1d661a0bf/)
 
 С моим участием:
 - [Польза и вред Java-сообществ для инженеров](https://youtu.be/ZoAx3ALXEn8?si=PmEBBmLllz_30PFn)
-- [Квартирник: гений, но токсик — уволить или терпеть?](https://events.online.gpb.ru/site/a55ad170-2cc2-4d1d-8947-b9f946925f86) - внизу страницы, Зал Soft skill, тайминг 2:11:28
+- [Квартирник: гений, но токсик — уволить или терпеть?](https://rutube.ru/video/43dd99330674612878016a12b9559255/)
 
 ## Статьи
 
